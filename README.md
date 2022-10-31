@@ -1,5 +1,6 @@
 ## What is this Repository?
-The files in this repository are information for creating an adapter to convert an 87C510 chip to a 27C512.
+The files in this repository are information for creating an adapter to convert an 87C510 chip to a 27C512.  
+This allows custom-made chips to be replaced with general-purpose ones, facilitating ECU map rewriting.
 
 ## Background
 Motronic 2.4 from 1997 to 2001 uses a custom-made chip called 87c510 made by Texas Instrument (TMS), and it is difficult to obtain a blank chip that can be written to, other than obtaining the ECU itself.  
