@@ -13,6 +13,7 @@ We have compiled the data and files necessary for ordering on this GitHub.
 
 ## Proven Manufacturers
 Manufacturers with working records are listed below.  
+As of 2022, the cost was about $120 including $30 shipping to Japan.
 https://www.pcbgogo.com/
 
 ## Images
