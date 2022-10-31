@@ -14,14 +14,15 @@ We have compiled the data and files necessary for ordering on this GitHub.
 ## Proven Manufacturers
 Manufacturers with working records are listed below.  
 https://www.pcbgogo.com/  
-As of 2022, the cost was about $120 including $30 shipping to Japan.
+As of 2022, the cost was about $120 including $30 shipping to Japan.  
+Of course, you can also make your own.
 
 ## Images
 ### Stock
-![Stock_87c510](https://user-images.githubusercontent.com/110214119/198947598-2d6a4c42-9ba0-4872-ba13-980af5120e52.jpg)
+![Adapter_only](https://user-images.githubusercontent.com/110214119/198947610-3d37bd2d-70c5-4090-a08e-9779126dde00.jpg)
 
 ### With Adapter
 ![With_adapter](https://user-images.githubusercontent.com/110214119/198947614-8414fa7f-e69e-48fa-8a6d-95460affb396.jpg)
 
 ### Adapter
-![Adapter_only](https://user-images.githubusercontent.com/110214119/198947610-3d37bd2d-70c5-4090-a08e-9779126dde00.jpg)
+![Stock_87c510](https://user-images.githubusercontent.com/110214119/198947598-2d6a4c42-9ba0-4872-ba13-980af5120e52.jpg)
